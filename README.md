@@ -1,4 +1,4 @@
-# APA 7th Edition Referencing & Citation Skill
+# APA Referencing & Citation (7th Ed) Skill for Claude
 
 A Claude skill for formatting, checking, correcting, and verifying academic references and citations according to APA 7th Edition rules.
 
