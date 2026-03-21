@@ -41,10 +41,6 @@ apa-referencing/
 └── README.md
 ```
 
-## Based On
-
-APA Publication Manual, 7th Edition. Quick guide compiled by Chuah Kee Man (2021) — [www.chuahkeeman.com](https://www.chuahkeeman.com)
-
 ## Licence
 
 This skill is shared for educational purposes. The APA formatting rules are based on the APA Publication Manual, 7th Edition, published by the American Psychological Association.
