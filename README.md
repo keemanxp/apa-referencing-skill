@@ -29,6 +29,7 @@ Simply ask Claude to check, format, or verify any APA reference. For example:
 - "Format this as an APA 7th reference: author Sarah Chen, 2023, article titled..."
 - "Are these references real or fabricated?"
 - "Convert this Harvard reference to APA 7th"
+- "List the references in APA format"
 
 ## File Structure
 
